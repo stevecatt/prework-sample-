@@ -1,7 +1,7 @@
 html {
     font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
     font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
-    background-color: azure;
+    background-color: #0a2342;
   }
   h1 {
     font-size: 60px;
@@ -30,7 +30,7 @@ html {
   body {
     width: 800px;
     margin: 0 auto;
-    background-color: #FF9500;
+    background-color: #b0b7bd;
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
@@ -39,7 +39,7 @@ html {
       height: 500px;
       padding: 10px;
       border-radius: 25px ;
-      border: 15px solid olivedrab;
+      border: 15px solid #c81f32;
 
 
       display: block;
