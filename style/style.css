@@ -26,6 +26,7 @@ html {
   }
   li:hover {
     color: blue;
+  
   }
   body {
     width: 800px;
@@ -35,14 +36,16 @@ html {
     border: 5px solid black;
   }
   img { 
-      width: 500px;
-      height: 500px;
+      object-fit: cover;
+      width: 400px;
+      height: 400px;
       padding: 10px;
-      border-radius: 25px ;
+      border-radius: 25% ;
       border: 15px solid #c81f32;
 
 
       display: block;
      margin: 0 auto;
   }
+  
   
