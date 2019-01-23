@@ -25,11 +25,19 @@ html {
   
   }
   li:hover {
-    color: blue;
-  
+    /*color: blue;*/
+    animation-name: color;
+    animation-duration: 1000ms;
+    *animation-fill-mode: forwards;
   }
+  @keyframes color {
+    100% {color: red }
+  }
+    
+  
+  
   body {
-    width: 800px;
+    width: 700px;
     margin: 0 auto;
     background-color: #b0b7bd;
     padding: 0 20px 20px 20px;
