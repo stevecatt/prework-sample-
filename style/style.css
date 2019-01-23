@@ -10,11 +10,13 @@ html {
     padding: 20px 0;
     color: #00539F;
     text-shadow: 3px 3px 1px black;
+    text-transform: capitalize;
 
   }
   h2 {
     font-size:30px;
     text-align: center;
+    text-transform: capitalize;
   }
   p, li {
     font-size: 16px;    
