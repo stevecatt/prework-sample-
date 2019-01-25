@@ -1,6 +1,6 @@
 var i = 0; // Start point
-        var images = [];
-        var time = 3000;
+        let images = [];
+        const time = 3000;
     
         // Image List
         images[0] = 'images/img_2161.jpg';

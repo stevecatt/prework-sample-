@@ -28,7 +28,7 @@ html {
     /*color: blue;*/
     animation-name: color;
     animation-duration: 1000ms;
-    *animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
   }
   @keyframes color {
     100% {color: red }
