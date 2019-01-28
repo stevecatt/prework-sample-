@@ -18,6 +18,9 @@ html {
     text-align: center;
     text-transform: capitalize;
   }
+  figure {font-size: 25px;
+  text-align: center;
+   color:#0a2342}
   p, li {
     font-size: 16px;    
     line-height: 2;

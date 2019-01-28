@@ -8,6 +8,7 @@ var i = 0; // Start point
         images[1] = 'images/img_0462.jpg';
         
         images[2] = 'images/img_0662.jpg';
+        images[3] = 'images/img_0668.jpg'; 
         images[4] = 'images/img_0817.jpg';
        
         images[5] = 'images/img_2947.jpg';
