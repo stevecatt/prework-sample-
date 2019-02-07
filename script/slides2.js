@@ -37,6 +37,6 @@ var i = 0; // Start point
        window.onload = changeImg;
 
 document.addEventListener('scroll', function(){
-		var audio = document.getElementById("myAudio");
+var audio = document.getElementById("myAudio");
 		audio.play();		
 	});      
