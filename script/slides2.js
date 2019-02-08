@@ -16,7 +16,7 @@ var i = 0; // Start point
        images[7] = {img : 'images/img_2969.jpg', caption : "Bah Humbug!"};
        images[8] = {img : 'images/img_1838.jpg', caption : "Scary Cousin"};
        images[9] = {img : 'images/img_0966.jpg', caption : "I Sleep A Lot"};
-       
+       images[10] = {img : 'images/img_3115.jpg', caption : "Coding"};
 
        // Change Image
 
